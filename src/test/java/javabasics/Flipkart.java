@@ -2,6 +2,8 @@ package javabasics;
 
 public class Flipkart extends Amazon {
 
+	// Over riding example concept
+
 	void sell() {
 		System.out.println("Selling Electronics+ books");
 	}
